@@ -3,3 +3,5 @@ estamos en el archivo2
 le puse algo nuevo
 
 salvando
+
+ahora estoy trabajando con git aprendiendo nuevas cosas en consola
